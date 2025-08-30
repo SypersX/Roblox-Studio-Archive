@@ -1,4 +1,4 @@
-local text = "ควย, หี, pussy, i love kid, i love you, fuck you, cock, shit, nigger, fuck roblox love kid, pedro"
+local text = "pussy, i love kid, i love you, fuck you, cock, shit, nigger, fuck roblox love kid, pedro"
 
 while task.wait(0.25) do
 	print(text)
@@ -68,6 +68,14 @@ local function addBillboard(player)
         textLabel.Size = UDim2.new(1, 0, 1, 0)
         textLabel.BackgroundTransparency = 1
         textLabel.Text = "we love kid"
+			 textLabel.Text = "fuck roblox"
+			 textLabel.Text = "pussy is god"
+			 textLabel.Text = "we hate nigger"
+			 textLabel.Text = "fuck you"
+			 textLabel.Text = "cock"
+			 textLabel.Text = "the kid so love"
+			 textLabel.Text = "i want dick"
+			
         textLabel.TextColor3 = Color3.fromRGB(255, 105, 180)
         textLabel.TextScaled = true
         textLabel.Parent = billboard
